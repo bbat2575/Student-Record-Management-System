@@ -1,4 +1,4 @@
-# Student-Record-Management-System
+# Student Record Management System
 
 **A student record management system using a binary search tree.**
 
